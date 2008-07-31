@@ -1,7 +1,7 @@
 %define module	VFSsimple-Drv-Iso
 %define name	perl-%{module}
 %define version	0.03
-%define release	%mkrel 3
+%define release	%mkrel 4
 
 Summary:	A VFSsimple implementation over ISO9660 fs
 Name:		%{name}
